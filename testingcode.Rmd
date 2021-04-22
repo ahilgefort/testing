@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+!['Carl Friedrich Gauss'](gauss.jpg){width=30%}
+Gauss didn't invent mathematics, but came pretty close. 
